@@ -1,5 +1,6 @@
 # file-sharing
 Tiny project is created serve for seminar SE405
+```cd file-sharing-frontend```
 
 ```docker build -t p2p-file-sharing .```
 
